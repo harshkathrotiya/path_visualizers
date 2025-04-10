@@ -151,9 +151,10 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-900 text-white p-6">
       <div className="max-w-7xl mx-auto space-y-6">
-        <h1 className="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
-          Path Visualizer
+        <h1 className="text-4xl font-bold text-center mb-8 bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
+          Path Visualizers
         </h1>
+        <p className="text-center text-gray-300 mb-6">Interactive Pathfinding Algorithm Visualization Tool</p>
 
         {/* Add a simple drawing mode selector */}
         <div className="mb-4 flex gap-2">
@@ -228,8 +229,12 @@ function App() {
 
       {/* Footer */}
       <footer className="mt-12 py-4 text-center text-gray-400">
-        <p className="flex items-center justify-center gap-1">
-          Made with <span className="text-red-500 animate-pulse">💖</span> by <a href="https://www.linkedin.com/in/harsh-kathrotiya" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 transition-colors">Harsh</a>
+        <p className="flex items-center justify-center gap-1 mb-2">
+          Made with <span className="text-red-500 animate-pulse">💖</span> by <a href="https://www.linkedin.com/in/harsh-kathrotiya" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 transition-colors">Harsh Kathrotiya</a>
+        </p>
+        <p className="text-sm">
+          <a href="https://pathvisualizers.vercel.app/" className="text-gray-500 hover:text-gray-300 transition-colors">pathvisualizers.vercel.app</a> |
+          <a href="https://github.com/harshkathrotiya/path-visualizers" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-300 transition-colors ml-2">GitHub</a>
         </p>
       </footer>
     </div>
