@@ -15,7 +15,7 @@
 [**View Live Demo →**](https://pathvisualizers.vercel.app/)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Path+Visualizers+Screenshot" alt="Path Visualizers Screenshot" width="800px" />
+  <img src="./screenshot.png" alt="Path Visualizers Screenshot" width="800px" />
 </p>
 
 An interactive web application that visualizes various pathfinding algorithms in real-time. Watch how different algorithms navigate through a maze to find the shortest path from start to end!
