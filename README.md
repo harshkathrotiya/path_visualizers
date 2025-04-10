@@ -15,7 +15,7 @@
 [**View Live Demo →**](https://pathvisualizers.vercel.app/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshkathrotiya/path_visualizers/main/screenshot.png" alt="Path Visualizers Screenshot" width="800px" />
+  <img src="https://asset.cloudinary.com/dnihs5qly/322e6db05cf4f15d18a6def3922f011b" alt="Path Visualizers Screenshot" width="800px" />
 </p>
 
 <p align="center">
